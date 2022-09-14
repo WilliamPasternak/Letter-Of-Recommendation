@@ -1,0 +1,45 @@
+@font-face {
+    font-family: Leon;
+    src: url(Leon-Regular.otf);
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+main {
+    width: 50%;
+    margin: 0 auto;
+}
+
+h1 {
+    font-family: Leon;
+    margin: 0 auto;
+    text-align: center;
+}
+
+textarea {
+    margin: 1% auto;
+    display: block;
+}
+
+section {
+    display: flex;
+    flex-direction: column;
+}
+
+footer {
+    margin: 0 auto;
+}
+
+#button {
+    width: 25%;
+    align-self: center;
+    margin-top: 2%;
+}
+
+#letter {
+    font-family: Leon, 'Times New Roman', Times, serif;
+    size: 4rem;
+}
