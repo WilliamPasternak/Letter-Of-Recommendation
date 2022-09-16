@@ -1,5 +1,5 @@
 #  Letter Of Recommendation Generator
-This project may only be mildly amusing at best, to a **very** small percentage of the population.
+This project may only be mildly amusing at best, to a **very** small percentage of the population. It generates a "handwritten" letter of recomendation based on screen captured text written on lecture videos.
 
 **Link to project:** 
 https://letter-of-recommendation.netlify.app/
