@@ -23,15 +23,29 @@ Characters were ripped from [#100Devs](https://www.twitch.tv/learnwithleon) clas
 ## Lessons Learned:
 This was my first time creating a custom font. It was extremely easy using Calligraphr's template model. This allows you to upload an image of your characters rather than drawing them out.
 
-## Better Projects:
-[**Busboy**](https://busboy.co/)  
-Busboy is a platform highlighting the stories, lessons, and advice from members of the hospitality industry.
-  <p align = 'center'><img align="center" src="https://github.com/WilliamPasternak/busboy/blob/main/busyboy.gif" alt="Bartender Portfolio Website"></p>
-
-[**Cocktail Dilution Calculator**](https://dilution-calculator.netlify.app/)  
-This is a web app to quickly calculate the amount of water needed to dilute a pre-batched cocktail.
- <p align = 'center'><img align="center" src="https://github.com/WilliamPasternak/Dilution-Calculator/blob/main/Dilution.gif" alt="Cocktail Dilution web application"></p>
-
-[**Movie Night**](https://github.com/WilliamPasternak/MovieNight)  
-A fullstack web application utilizing The Movie Database's API. Users are shown one random movie and can choose to add it to a watchlist. 
- <p align = 'center'><img align="center" src="https://github.com/WilliamPasternak/MovieNight/blob/main/MovieNight%20Walkthrough.gif" alt="Movie Night web application"></p>
+## Better Projects
+<table bordercolor="#66b2b2">
+  <tr>
+    <td width="33.3%"  style="align:center;" valign="top">
+<a target="_blank" href="https://github.com/WilliamPasternak/busboy">Busboy Site</a>
+        <br />
+      <a target="_blank" href="https://github.com/WilliamPasternak/busboy">
+            <img src="https://github.com/WilliamPasternak/busboy/blob/main/busyboy.gif" width="100%"  alt="Busbo.co"/>
+        </a>
+    </td>
+    <td width="33.3%" valign="top">
+<a target="_blank" href="https://github.com/WilliamPasternak/Dilution-Calculator">Dilution Calculator Web App</a> 
+      <br />
+        <a target="_blank" href="https://github.com/WilliamPasternak/Dilution-Calculator">
+          <img src="https://github.com/WilliamPasternak/Dilution-Calculator/raw/main/Dilution.gif" width="100%" alt="Matching Card Game"/>
+        </a>
+    </td>
+    <td width="33.3%" valign="top">
+<a target="_blank" href="https://github.com/WilliamPasternak/MovieNight">Movie Night Web App</a>
+        <br />
+        <a target="_blank" href="https://github.com/WilliamPasternak/MovieNight">
+          <img src="https://github.com/WilliamPasternak/MovieNight/blob/main/MovieNight%20Walkthrough.gif" width="100%" alt="Portfolio"/>
+        </a>
+    </td>
+  </tr>
+</table>
